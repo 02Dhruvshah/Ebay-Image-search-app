@@ -18,8 +18,8 @@ namespace EbayPhotoMatchTest
 {
     public partial class Form1 : Form
     {
-        private const string CLIENT_ID = "KushalBh-Apsarapr-PRD-988d12f86-03d6f5ee";
-        private const string CLIENT_SECRET = "PRD-88d12f86289a-cb08-4fd3-afd2-5cd0";
+        private const string CLIENT_ID = "Your Client ID";
+        private const string CLIENT_SECRET = "YourSecret ID";
 
         // === Model for one search result ===
         private class Hit
