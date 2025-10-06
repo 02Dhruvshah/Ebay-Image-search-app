@@ -1,0 +1,16 @@
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.exe
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.deps.json
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.runtimeconfig.json
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.dll
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.pdb
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.Form1.resources
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.csproj.GenerateResource.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.AssemblyInfoInputs.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.AssemblyInfo.cs
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.csproj.CoreCompileInputs.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.dll
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\refint\EbayPhotoMatchTest.dll
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.pdb
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.genruntimeconfig.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\ref\EbayPhotoMatchTest.dll
