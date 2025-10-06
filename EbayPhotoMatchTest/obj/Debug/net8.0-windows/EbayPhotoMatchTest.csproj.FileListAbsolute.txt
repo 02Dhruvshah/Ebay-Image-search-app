@@ -1,0 +1,33 @@
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.exe
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.deps.json
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.runtimeconfig.json
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.dll
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.pdb
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.Form1.resources
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.csproj.GenerateResource.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.AssemblyInfoInputs.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.AssemblyInfo.cs
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.csproj.CoreCompileInputs.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.dll
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\refint\EbayPhotoMatchTest.dll
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.pdb
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.genruntimeconfig.cache
+C:\Games\Unity Projects\EbayPhotoMatchTest\EbayPhotoMatchTest\obj\Debug\net8.0-windows\ref\EbayPhotoMatchTest.dll
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.exe
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.deps.json
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.runtimeconfig.json
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.dll
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\bin\Debug\net8.0-windows\EbayPhotoMatchTest.pdb
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.Form1.resources
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.csproj.GenerateResource.cache
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.AssemblyInfoInputs.cache
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.AssemblyInfo.cs
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.csproj.CoreCompileInputs.cache
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.sourcelink.json
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.dll
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\refint\EbayPhotoMatchTest.dll
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.pdb
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\EbayPhotoMatchTest.genruntimeconfig.cache
+C:\Users\Mythosaur\Documents\GitHub\Ebay-Image-search-app\EbayPhotoMatchTest\obj\Debug\net8.0-windows\ref\EbayPhotoMatchTest.dll

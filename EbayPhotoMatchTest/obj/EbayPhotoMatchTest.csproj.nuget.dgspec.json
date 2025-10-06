@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Games\\Unity Projects\\EbayPhotoMatchTest\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj": {}
+    "C:\\Users\\Mythosaur\\Documents\\GitHub\\Ebay-Image-search-app\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj": {}
   },
   "projects": {
-    "C:\\Games\\Unity Projects\\EbayPhotoMatchTest\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj": {
+    "C:\\Users\\Mythosaur\\Documents\\GitHub\\Ebay-Image-search-app\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Games\\Unity Projects\\EbayPhotoMatchTest\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj",
+        "projectUniqueName": "C:\\Users\\Mythosaur\\Documents\\GitHub\\Ebay-Image-search-app\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj",
         "projectName": "EbayPhotoMatchTest",
-        "projectPath": "C:\\Games\\Unity Projects\\EbayPhotoMatchTest\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj",
+        "projectPath": "C:\\Users\\Mythosaur\\Documents\\GitHub\\Ebay-Image-search-app\\EbayPhotoMatchTest\\EbayPhotoMatchTest.csproj",
         "packagesPath": "C:\\Users\\Mythosaur\\.nuget\\packages\\",
-        "outputPath": "C:\\Games\\Unity Projects\\EbayPhotoMatchTest\\EbayPhotoMatchTest\\obj\\",
+        "outputPath": "C:\\Users\\Mythosaur\\Documents\\GitHub\\Ebay-Image-search-app\\EbayPhotoMatchTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mythosaur\\AppData\\Roaming\\NuGet\\NuGet.Config",

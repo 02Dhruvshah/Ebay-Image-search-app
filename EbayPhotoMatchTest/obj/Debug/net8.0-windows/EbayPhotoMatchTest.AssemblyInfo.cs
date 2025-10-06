@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EbayPhotoMatchTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ac24366b951dd6048816df07a00badcced5b5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EbayPhotoMatchTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EbayPhotoMatchTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

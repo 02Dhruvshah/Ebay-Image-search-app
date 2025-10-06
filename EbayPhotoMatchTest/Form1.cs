@@ -18,8 +18,8 @@ namespace EbayPhotoMatchTest
 {
     public partial class Form1 : Form
     {
-        private const string CLIENT_ID = "Your Client Id";
-        private const string CLIENT_SECRET = "Your Secret ID";
+        private const string CLIENT_ID = "KushalBh-Apsarapr-PRD-988d12f86-03d6f5ee";
+        private const string CLIENT_SECRET = "PRD-88d12f86289a-cb08-4fd3-afd2-5cd0";
 
         // === Model for one search result ===
         private class Hit
@@ -44,7 +44,7 @@ namespace EbayPhotoMatchTest
             InitializeComponent();
 
             // wire button
-            btnTest.Click += BtnTest_Click;
+           
 
             // wire all 5 result lists
             HookList(lstImg1, 0);
