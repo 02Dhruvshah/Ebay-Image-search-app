@@ -18,8 +18,8 @@ namespace EbayPhotoMatchTest
 {
     public partial class Form1 : Form
     {
-        private const string CLIENT_ID = "Your Client ID";
-        private const string CLIENT_SECRET = "YourSecret ID";
+        private const string CLIENT_ID = "Client ID";
+        private const string CLIENT_SECRET = "Secret ID";
 
         // === Model for one search result ===
         private class Hit
@@ -44,7 +44,7 @@ namespace EbayPhotoMatchTest
             InitializeComponent();
 
             // wire button
-           
+
 
             // wire all 5 result lists
             HookList(lstImg1, 0);
@@ -82,7 +82,12 @@ namespace EbayPhotoMatchTest
 
                 var files = dlg.FileNames.Take(5).ToArray(); // up to 5
                 textBox1.Text = $"Selected {files.Length} image(s)\r\n";
+                for (int i = 0; i < 5; i++)
+                    SetImage(GetSrcPic(i), null);
 
+                // show the newly selected source photos
+                for (int i = 0; i < files.Length; i++)
+                    SetImage(GetSrcPic(i), LoadImageUnlocked(files[i]));
                 var token = await GetToken();
                 if (string.IsNullOrEmpty(token))
                 {
@@ -97,6 +102,7 @@ namespace EbayPhotoMatchTest
                     GetList(i).DataSource = null;
                     GetPic(i).Image = null;
                     GetTxt(i).Clear();
+
                 }
 
                 // run at most 2 searches in parallel to avoid timeouts
@@ -340,6 +346,31 @@ namespace EbayPhotoMatchTest
             3 => txtImg4,
             _ => txtImg5
         };
+        // === Source (selected) photos ===
+        private PictureBox GetSrcPic(int i) => i switch
+        {
+            0 => srcPic1,
+            1 => srcPic2,
+            2 => srcPic3,
+            3 => srcPic4,
+            _ => srcPic5
+        };
+
+        // Load without locking the file (clone the bitmap)
+        private static Image LoadImageUnlocked(string path)
+        {
+            using var fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
+            using var tmp = Image.FromStream(fs);
+            return new Bitmap(tmp);
+        }
+
+        // Assign and dispose old image to avoid leaks
+        private static void SetImage(PictureBox pb, Image img)
+        {
+            var old = pb.Image;
+            pb.Image = img;
+            old?.Dispose();
+        }
 
         private void AppendLog(string s) => Invoke(new Action(() => textBox1.AppendText(s)));
 
@@ -356,6 +387,16 @@ namespace EbayPhotoMatchTest
             p.Param[0] = new EncoderParameter(ImgEnc.Quality, quality);
             resized.Save(ms, enc, p);
             return ms.ToArray();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
